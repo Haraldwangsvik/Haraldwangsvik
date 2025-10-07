@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm Harald Wangsvik Fredriksen
 
-<!--
-**Haraldwangsvik/Haraldwangsvik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a full-time student and part-time developer, passionate about building impactful and creative solutions. I thrive on learning new technologies and working on diverse projects, both independently and in teams.
 
-Here are some ideas to get you started:
+## 🚀 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** Java, Python, JavaScript, HTML, CSS, Ruby
+- **Frameworks & Libraries:** React, Ruby on Rails
+- **Game Development:** Unreal Engine, 3D programming
+
+## 🌟 Favorite Projects
+
+Most of my favorite repositories are private, but here are a few I’m proud of:
+- **flix**
+- **web-portfolio**
+
+## 📫 Contact Me
+
+- **LinkedIn:** [Harald Wangsvik Fredriksen](https://www.linkedin.com/in/harald-wangsvik-fredriksen/)
+- **Email:** haraldwangsvik@gmail.com
+
+Feel free to reach out on LinkedIn or via email for collaboration, questions, or just to connect!
+
+---
+
+*Always open to learning, building, and exploring new ideas!*
