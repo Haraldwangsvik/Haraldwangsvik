@@ -14,6 +14,13 @@ Most of my favorite repositories are private, but here are a few I’m proud of:
 - **flix**
 - **web-portfolio**
 
+## 📊 GitHub Stats
+
+![Haraldwangsvik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Haraldwangsvik&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Haraldwangsvik&layout=compact&theme=radical)
+![trophy](https://github-profile-trophy.vercel.app/?username=Haraldwangsvik)
+![Visitor Badge](https://komarev.com/ghpvc/?username=Haraldwangsvik)
+
 ## 📫 Contact Me
 
 - **LinkedIn:** [Harald Wangsvik Fredriksen](https://www.linkedin.com/in/harald-wangsvik-fredriksen/)
