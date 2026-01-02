@@ -4,9 +4,9 @@ I'm a full-time student and part-time developer, passionate about building impac
 
 ## 🚀 Skills
 
-- **Languages:** Java, Python, JavaScript, HTML, CSS, Ruby
+- **Languages:** Java, Python, JavaScript, HTML, CSS, Ruby, C++
 - **Frameworks & Libraries:** React, Ruby on Rails
-- **Game Development:** Unreal Engine, 3D programming
+- **Game Development:** Unreal Engine, Unity, 3D programming
 
 ## 🌟 Favorite Projects
 
