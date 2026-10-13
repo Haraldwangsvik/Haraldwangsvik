@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Harald Wangsvik Fredriksen
 
-I'm a full-time student and part-time developer, passionate about building impactful and creative solutions. I thrive on learning new technologies and working on diverse projects, both independently and in teams.
+I'm a full-time developer, passionate about building impactful and creative solutions. I thrive on learning new technologies and working on diverse projects, both independently and in teams.
 
 ## 🚀 Skills
 
